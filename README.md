@@ -6,7 +6,7 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 
 ### PLAN
 
-1 - Construct database church floor plan :
+#### 1 - Construct database church floor plan :
 
 * image (png format)
 * real size
@@ -20,7 +20,7 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 * cultural people
 * religion
 
-2 - Extract shape of each plan of database.
+#### 2 - Extract shape of each plan of database.
 
-3 - Analysis data like statistical biologist.
+#### 3 - Analysis data like statistical biologist.
 
