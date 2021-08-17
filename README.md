@@ -9,13 +9,11 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 #### 1 - Construct database church floor plan :
 
 * image normalised (png format)
-* real size
-* scaling
+* real size / scaling
 * construction start date
 * construction ending date
-* location (gps)
-* architecture type (dominant)
-* architect
+* location and orientation(gps)
+* architect and architecture type (dominant)
 * number of modification
 * material
 * cultural people
