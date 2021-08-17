@@ -24,3 +24,5 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 
 #### 3 - Analysis data like statistical biologist.
 
+Intérêt : Mesure de la régularité dans la variabilité architecturale et construction d'un modèle prédictif.
+
