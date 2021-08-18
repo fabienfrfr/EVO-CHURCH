@@ -23,5 +23,10 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 
 #### 3 - Analysis data like statistical biologist.
 
-Intérêt : Mesure de la régularité dans la variabilité architecturale et construction d'un modèle prédictif.
+Intérêt : 
+1- Mesure de la régularité dans la variabilité architecturale,
+
+2- Déterminer si les traits morphologique sont des adaptations, des sous-produits ou du bruit,
+
+3- Construction d'un modèle prédictif.
 
