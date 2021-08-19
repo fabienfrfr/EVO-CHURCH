@@ -1,0 +1,227 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine biblatex
+\cite_engine_type authoryear
+\biblio_style plain
+\biblatex_bibstyle savetrees
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+L'imitation architecturale des églises ont influencé la morphologie des
+ églises (?)
+\end_layout
+
+\begin_layout Author
+F.
+ Furfaro and C.M.
+\end_layout
+
+\begin_layout Date
+2021
+\end_layout
+
+\begin_layout Abstract
+La conception d'eglise est en pleine mutation depuis le moyen-age (?) inspiré
+ de 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "chitwood_imitation_2014"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Histoire
+\begin_inset Newline newline
+\end_inset
+
+Géographie
+\begin_inset Newline newline
+\end_inset
+
+Forme
+\begin_inset Newline newline
+\end_inset
+
+Contours
+\begin_inset Newline newline
+\end_inset
+
+Dataset
+\begin_inset Newline newline
+\end_inset
+
+Analyse possible
+\begin_inset Newline newline
+\end_inset
+
+Question.
+\end_layout
+
+\begin_layout Part*
+Résultats et discussion
+\end_layout
+
+\begin_layout Subsection*
+Difference de forme
+\end_layout
+
+\begin_layout Subsection*
+L'évolution de la forme au fil du temps
+\end_layout
+
+\begin_layout Subsection*
+Des clusters de forme
+\end_layout
+
+\begin_layout Subsection*
+Transmission du design
+\end_layout
+
+\begin_layout Part*
+Conclusion
+\end_layout
+
+\begin_layout Standard
+Modification fonctionnelle
+\begin_inset Newline newline
+\end_inset
+
+Facteurs responsable
+\begin_inset Newline newline
+\end_inset
+
+Selection de la forme et Héridité = adaptation s
+\begin_inset Newline newline
+\end_inset
+
+Modele predictif possible (bonus ML).
+\end_layout
+
+\begin_layout Part*
+Matériels et méthodes
+\end_layout
+
+\begin_layout Subsection*
+Traitements d'images
+\end_layout
+
+\begin_layout Subsection*
+Analyse du descripteurs de fourier elliptique
+\end_layout
+
+\begin_layout Subsection*
+Analyse statistique et visualisation
+\end_layout
+
+\begin_layout Part*
+Supplèments
+\end_layout
+
+\begin_layout Standard
+Détermination harmonique
+\begin_inset Newline newline
+\end_inset
+
+Etc.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "EVO-CHURCH"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
