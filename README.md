@@ -31,3 +31,6 @@ Intérêt :
 
 3- Construction d'un modèle prédictif.
 
+Notes :
+** some data can be correlated (gps with climate, altitude follow near-water, city around...)
+
