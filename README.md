@@ -6,7 +6,7 @@ Inspired by [Daniel H. Chitwood, 2014](https://doi.org/10.1371/journal.pone.0109
 
 ### PLAN
 
-#### 1 - Construct database church floor plan :
+#### 1 - Construct database church floor plan (wiki scrapling and manual) :
 
 * image normalised (png format)
 * real size / scaling
